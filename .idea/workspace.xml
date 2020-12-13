@@ -26,11 +26,12 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../algorithm_python/if문" />
       <recent name="$PROJECT_DIR$/입출력과사칙연산" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.곱셈_2588">
-    <configuration name="04연습문제" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.OX퀴즈_8958">
+    <configuration name="최댓값" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -38,11 +39,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/입출력과사칙연산" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../algorithm_python/배열" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/입출력과사칙연산/04연습문제.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../algorithm_python/배열/최댓값.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -51,7 +52,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="AplusB_1000" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="OX퀴즈_8958" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,11 +60,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/입출력과사칙연산" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../algorithm_python/배열" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/입출력과사칙연산/AplusB_1000.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../algorithm_python/배열/OX퀴즈_8958.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,7 +73,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="개_10172" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="최소최대_10818" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,11 +81,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../algorithm_python/배열" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/입출력과사칙연산/개_10172.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../algorithm_python/배열/최소최대_10818.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +94,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="사칙연산_10869" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="숫자의개수_2577" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,11 +102,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/입출력과사칙연산" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../algorithm_python/배열" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/입출력과사칙연산/사칙연산_10869.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../algorithm_python/배열/숫자의개수_2577.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="곱셈_2588" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="나머지_3951" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,11 +123,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/입출력과사칙연산" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../algorithm_python/배열" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/입출력과사칙연산/곱셈_2588.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../algorithm_python/배열/나머지_3951.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,11 +202,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.곱셈_2588" />
-        <item itemvalue="Python.04연습문제" />
-        <item itemvalue="Python.사칙연산_10869" />
-        <item itemvalue="Python.AplusB_1000" />
-        <item itemvalue="Python.개_10172" />
+        <item itemvalue="Python.OX퀴즈_8958" />
+        <item itemvalue="Python.나머지_3951" />
+        <item itemvalue="Python.숫자의개수_2577" />
+        <item itemvalue="Python.최댓값" />
+        <item itemvalue="Python.최소최대_10818" />
       </list>
     </recent_temporary>
   </component>
@@ -235,22 +236,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1607843271667">
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1607851967986">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1607843271667" />
-    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1607843271666">
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1607851967986" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1607851967985">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1607843271666" />
-    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1607843271665">
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1607851967985" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1607851967984">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1607843271665" />
-    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1607843271666">
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1607851967984" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1607851967986">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1607843271666" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1607851967986" />
     <state x="221" y="89" key="SettingsEditor" timestamp="1607843512470">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
