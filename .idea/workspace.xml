@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="501aa2be-cc9c-4f80-877a-276029c86386" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/기본수학1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/기본수학1/손익분기점_1712.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/기본수학1/벌집_2292.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +37,7 @@
       <recent name="$PROJECT_DIR$/입출력과사칙연산" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.손익분기점_1712">
+  <component name="RunManager" selected="Python.벌집_2292">
     <configuration name="OX퀴즈_8958" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,7 +80,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="숫자의개수_2577" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="벌집_2292" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,11 +88,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/배열" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/기본수학1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/배열/숫자의개수_2577.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/기본수학1/벌집_2292.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.벌집_2292" />
         <item itemvalue="Python.손익분기점_1712" />
         <item itemvalue="Python.셀프넘버_4673" />
         <item itemvalue="Python.OX퀴즈_8958" />
         <item itemvalue="Python.나머지_3951" />
-        <item itemvalue="Python.숫자의개수_2577" />
       </list>
     </recent_temporary>
   </component>
@@ -180,26 +179,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1231" height="230" key="GridCell.Tab.0.bottom" timestamp="1609940038724">
+    <state width="1231" height="230" key="GridCell.Tab.0.bottom" timestamp="1610030078290">
       <screen x="42" y="23" width="1398" height="877" />
     </state>
     <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1608040361044" />
-    <state width="1231" height="230" key="GridCell.Tab.0.bottom/42.23.1398.877@42.23.1398.877" timestamp="1609940038724" />
-    <state width="1231" height="230" key="GridCell.Tab.0.center" timestamp="1609940038723">
+    <state width="1231" height="230" key="GridCell.Tab.0.bottom/42.23.1398.877@42.23.1398.877" timestamp="1610030078290" />
+    <state width="1231" height="230" key="GridCell.Tab.0.center" timestamp="1610030078290">
       <screen x="42" y="23" width="1398" height="877" />
     </state>
     <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1608040361043" />
-    <state width="1231" height="230" key="GridCell.Tab.0.center/42.23.1398.877@42.23.1398.877" timestamp="1609940038723" />
-    <state width="1231" height="230" key="GridCell.Tab.0.left" timestamp="1609940038723">
+    <state width="1231" height="230" key="GridCell.Tab.0.center/42.23.1398.877@42.23.1398.877" timestamp="1610030078290" />
+    <state width="1231" height="230" key="GridCell.Tab.0.left" timestamp="1610030078289">
       <screen x="42" y="23" width="1398" height="877" />
     </state>
     <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1608040361043" />
-    <state width="1231" height="230" key="GridCell.Tab.0.left/42.23.1398.877@42.23.1398.877" timestamp="1609940038723" />
-    <state width="1231" height="230" key="GridCell.Tab.0.right" timestamp="1609940038724">
+    <state width="1231" height="230" key="GridCell.Tab.0.left/42.23.1398.877@42.23.1398.877" timestamp="1610030078289" />
+    <state width="1231" height="230" key="GridCell.Tab.0.right" timestamp="1610030078290">
       <screen x="42" y="23" width="1398" height="877" />
     </state>
     <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1608040361044" />
-    <state width="1231" height="230" key="GridCell.Tab.0.right/42.23.1398.877@42.23.1398.877" timestamp="1609940038724" />
+    <state width="1231" height="230" key="GridCell.Tab.0.right/42.23.1398.877@42.23.1398.877" timestamp="1610030078290" />
     <state x="221" y="89" key="SettingsEditor" timestamp="1607843512470">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
